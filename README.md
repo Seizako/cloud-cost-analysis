@@ -17,7 +17,11 @@ data/
   raw/        # dataset d'origine, non modifié
   processed/  # données nettoyées
 notebooks/
-  01_exploration.ipynb   # premier coup d'œil au dataset
+  01_exploration.ipynb        # premier coup d'œil au dataset
+  02_nettoyage.ipynb          # renommage, dates, contrôles, export du CSV propre
+  03_analyse.ipynb            # coûts par service / région, détection de gaspillage
+  04_recommandations.ipynb    # économies estimées, plan d'action
+  05_analyse_temporelle.ipynb # évolution des coûts dans le temps
 ```
 
 ## Installation
