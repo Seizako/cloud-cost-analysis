@@ -1,0 +1,67 @@
+resource_id,service,region,cost_usd,cpu_util_pct,memory_util_pct,estimated_saving
+res-LWGX075A,Cloud Dataproc,southamerica-east1,8832.79,7.35,60.67,8183.579935000001
+res-723DJQ6D,Cloud Data Fusion,asia-northeast1,8693.36,7.96,10.82,8001.368544000001
+res-RUL6UJ2I,Cloud NAT,asia-southeast1,8750.6,8.79,61.74,7981.42226
+res-QZVTIOPY,Cloud Storage,asia-east1,8437.53,17.08,91.07,6996.399876000001
+res-C7QGGDW5,BigQuery,europe-west3,7498.58,10.4,68.25,6718.72768
+res-R6V5BB2L,Cloud Load Balancing,northamerica-northeast1,6731.94,1.32,59.95,6643.078391999999
+res-YVDZ7Y3W,Cloud CDN,australia-southeast1,7049.61,6.97,29.33,6558.252183
+res-AJJX91AK,Cloud Spanner,europe-north1,6824.82,7.34,6.22,6323.878212
+res-7LLUZT3G,Cloud Endpoints,europe-north1,7989.93,21.58,24.91,6265.703106
+res-72P7USQ6,Cloud SQL,europe-north1,6771.69,7.5,81.05,6263.81325
+res-KMJ0ZWLU,Cloud NAT,europe-west3,6894.38,11.58,44.74,6096.010796
+res-DTA164QF,Cloud Interconnect,us-west1,7898.77,23.88,21.64,6012.543724
+res-O49NSWHT,Cloud Memorystore,southamerica-east1,5934.53,0.72,75.7,5891.801383999999
+res-F9SA2UW2,Firestore,us-west1,6307.76,12.4,54.56,5525.597760000001
+res-3O5Q6SPM,Cloud Spanner,australia-southeast1,6245.2,12.38,39.08,5472.044239999999
+res-Z35RBDV4,Cloud Endpoints,asia-east1,6457.9,16.04,92.44,5422.052839999999
+res-M9S9G8PA,Cloud VPC,us-central1,5645.17,6.46,76.09,5280.492018
+res-GLWSU5H0,Cloud Memorystore,southamerica-east1,5468.25,5.33,50.11,5176.792275
+res-332C4VUK,BigQuery,europe-north1,5569.93,7.93,58.75,5128.2345510000005
+res-2RR6XXID,Cloud VPC,asia-northeast1,6690.02,25.09,27.26,5011.493982
+res-AQX7XE3J,Cloud Load Balancing,us-west1,5160.09,5.13,74.47,4895.377383
+res-3KX732X1,Cloud VPN,us-east1,4899.77,0.88,78.54,4856.652024
+res-4N1DTK2I,BigQuery,us-east1,4839.61,0.05,75.85,4837.190195
+res-IKCJY3HZ,Firestore,northamerica-northeast1,5013.83,4.19,66.7,4803.750523
+res-244K42M1,Pub/Sub,asia-southeast1,6062.75,20.99,98.45,4790.178775
+res-PDEQJ7U4,Cloud Load Balancing,asia-northeast1,5722.46,16.34,95.4,4787.410036
+res-W2V0JO7D,Cloud Data Fusion,europe-west1,5432.54,12.86,16.46,4733.9153559999995
+res-SJ11891I,Cloud CDN,asia-southeast1,5318.65,11.67,6.75,4697.963545
+res-SFJXVKKV,Firestore,us-west1,6135.2,24.8,95.47,4613.6704
+res-9K7LR2E5,Cloud Endpoints,asia-northeast1,6234.63,26.6,26.62,4576.21842
+res-LSZORKYT,Cloud Endpoints,us-east1,4656.11,2.58,23.13,4535.982362
+res-IVCT1BUF,Cloud Data Fusion,southamerica-east1,4606.7,2.21,98.03,4504.89193
+res-7XIEH2GK,Pub/Sub,us-west1,4576.69,2.97,63.12,4440.762307
+res-7DE9JX1O,Cloud VPN,northamerica-northeast1,4447.88,0.67,93.53,4418.079204
+res-D79LIUCM,Cloud Endpoints,australia-southeast1,5094.52,13.28,86.26,4417.9677440000005
+res-VP7PCV8U,Cloud Endpoints,australia-southeast1,4319.27,1.26,40.65,4264.847198
+res-38ISYK8S,Cloud Spanner,us-west1,4349.67,2.68,88.7,4233.098844
+res-F5EMGMM8,Cloud SQL,northamerica-northeast1,5310.02,22.26,20.26,4128.009548
+res-KGO1KFI6,Cloud Armor,asia-southeast1,4626.49,10.79,45.08,4127.291729
+res-JANIO4Q7,Cloud VPC,europe-north1,5424.64,24.74,87.26,4082.5840640000006
+res-HPZG31IQ,Pub/Sub,asia-southeast1,4677.81,13.18,37.74,4061.2746420000003
+res-SV1O8NCR,Cloud CDN,europe-west1,4248.87,7.57,82.52,3927.230541
+res-OZI3Q9ZQ,Cloud NAT,us-east1,4093.64,4.19,45.77,3922.1164839999997
+res-PN87VCFD,Cloud CDN,europe-north1,4921.79,20.74,98.76,3901.010754
+res-U8V4KCX7,Cloud Armor,australia-southeast1,5216.88,26.61,62.42,3828.668232
+res-LOIOQXNF,Cloud Interconnect,asia-southeast1,3949.89,3.07,5.56,3828.628377
+res-HLWAGRJX,Pub/Sub,us-east1,4046.75,5.46,98.89,3825.79745
+res-MJRPXFOX,Cloud SQL,asia-northeast1,3926.22,3.96,14.6,3770.741688
+res-CWFW5Z7I,Cloud Dataproc,australia-southeast1,4918.1,23.65,80.19,3754.9693500000008
+res-OGI8DBG9,Cloud NAT,southamerica-east1,3755.79,0.45,17.79,3738.888945
+res-Q1Z642YW,Cloud Interconnect,us-east1,3960.15,8.12,42.07,3638.5858200000002
+res-4E62CARB,Cloud Storage,europe-west3,4535.17,22.24,40.82,3526.548192
+res-YD1IOCX0,Cloud Build,southamerica-east1,4104.56,14.52,59.68,3508.5778880000003
+res-DXKGGUD7,Cloud SQL,asia-east1,3368.17,0.69,57.08,3344.929627
+res-90LFZLNG,Cloud VPC,northamerica-northeast1,4061.0,19.53,64.79,3267.8867
+res-NXRJ4YNL,Cloud VPC,us-central1,4331.46,24.84,34.47,3255.525336
+res-RQBGWF4Z,Firestore,australia-southeast1,3383.04,5.05,34.96,3212.19648
+res-UKLS5GOC,Cloud Memorystore,northamerica-northeast1,3489.59,9.38,29.91,3162.266458
+res-W8GT53T9,Cloud NAT,us-west1,3359.84,6.07,48.18,3155.8977120000004
+res-M8RGW39R,Cloud Storage,europe-west3,3621.57,13.08,0.58,3147.868644
+res-O249RCT8,Cloud Interconnect,us-east1,3924.66,22.24,91.03,3051.8156160000003
+res-GZEVM27G,BigQuery,europe-north1,3647.82,17.41,99.05,3012.734538
+res-FGBS0WGH,Cloud Build,northamerica-northeast1,3356.78,12.45,61.62,2938.86089
+res-IPSRXLS0,Cloud Spanner,europe-west1,3669.53,24.73,11.63,2762.0552310000003
+res-MHUZ0UCB,Cloud NAT,southamerica-east1,3312.85,25.5,89.97,2468.07325
+res-RZPR26RG,Cloud Storage,us-central1,3268.06,26.45,34.41,2403.6581300000003
