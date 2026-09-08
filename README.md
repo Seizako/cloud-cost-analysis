@@ -22,6 +22,7 @@ notebooks/
   03_analyse.ipynb            # coûts par service / région, détection de gaspillage
   04_recommandations.ipynb    # économies estimées, plan d'action
   05_analyse_temporelle.ipynb # évolution des coûts dans le temps
+  06_efficacite.ipynb         # d'où vient le coût, lien coût / utilisation
 ```
 
 ## Installation
