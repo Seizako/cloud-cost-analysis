@@ -24,6 +24,7 @@ notebooks/
   05_analyse_temporelle.ipynb # évolution des coûts dans le temps
   06_efficacite.ipynb         # d'où vient le coût, lien coût / utilisation
   07_trafic_reseau.ipynb      # volume réseau, sens du trafic, lien avec le coût
+  08_dimensionnement.ipynb    # CPU vs mémoire, profils de ressources déséquilibrées
 ```
 
 ## Installation
